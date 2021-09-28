@@ -1,0 +1,16 @@
+1	cs_sd
+2	miso
+3	cs_lcd
+4	res
+5	rs/dc
+6	mosi
+7	scl
+8	gnd
+9	+5V
+10	lewo
+11	dół
+12	środek
+13	góra
+14	prawo
+15	buzzer
+16	

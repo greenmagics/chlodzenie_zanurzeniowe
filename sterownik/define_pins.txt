@@ -1,0 +1,27 @@
+/*
+#define TFT_RST        30
+#define TFT_DC         31
+
+#define OUT1     	   34
+#define OUT2    	   35
+#define OUT3    	   36
+#define OUT4   		   37
+#define OUT5   		   38
+#define OUT6   		   39
+#define OUT7   		   40
+#define OUT8           41
+#define OUT9     	   42
+
+#define button_lewo    43
+#define button_gora    44 //45
+#define button_dol     45 //44
+#define button_srodek  46
+#define button_prawo   47
+#define buzzer         48
+
+#define SD_card_CS     49
+//MISO				   50
+//MOSI				   51
+//SCK				   52
+//TFT_CS			   53
+*/
